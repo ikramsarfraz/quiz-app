@@ -83,7 +83,7 @@ const App = () => {
       ) : null}
 
       {/* Score */}
-      {!gameOver ? <p className="score">Score:</p> : null}
+      {!gameOver ? <p className="score">Score: {score}</p> : null}
 
       {/* Loading Questions Spinner */}
       {loading && <p>Loading Questions ...</p>}
