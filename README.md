@@ -4,8 +4,6 @@ A quiz game that fetches questions/answers using an API, built using React with 
 
 ## Screenshots
 
-### Quiz-App
-
 ![recordit Quiz App Gif](http://g.recordit.co/7VK8ioRvOX.gif)
 
 ## Quick Start
