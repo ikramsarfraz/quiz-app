@@ -13,7 +13,7 @@ A quiz game that fetches questions/answers using an API, built using React with 
 ### Clone Repository
 
 ```
-git clone https://github.com/ikramsarfraz/quiz-app.git
+git clone https://github.com/ikramsarfraz/quiz-app-react-typescript.git
 ```
 
 ### Install server dependencies
